@@ -43,11 +43,3 @@ Train and compare models such as:
 - Model comparison plots
 
 ---
-
-## 🛠️ Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/DhanushN2005/Movie_BoxOffice_Prediction.git
-cd Movie_BoxOffice_Prediction
